@@ -9,7 +9,6 @@ I used Python to turn OpenStreetMap roads into a weighted graph, put classic sho
 
 [** Explore the interactive MapKW dashboard**](https://public.tableau.com/app/profile/vishal.srikanth/viz/MapKW/01InteractiveMap)
 
-![MapKW interactive Tableau dashboard showing optimal and alternative routes across Waterloo](assets/mapkw-dashboard.png)
 
 *Choose an origin and destination, then explore the optimal route and its alternatives. Route times are estimates under static road conditions, not live traffic predictions.*
 
