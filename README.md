@@ -7,13 +7,13 @@ It is. And that's what I wanted to explore with **MapKW**, an urban routing proj
 
 I used Python to turn OpenStreetMap roads into a weighted graph, put classic shortest-path algorithms to the test, generate alternative routes, and bring the results to life in an interactive Tableau Public dashboard.
 
-<!-- Centered Demo GIF Preview -->
-<p align="left">
+<!-- Centered Dashboard Preview -->
+<p align="center">
   <img src="MapKW SS1.png" alt="MapKW" width="600px">
 </p>
 
-<!-- Centered Demo GIF Preview -->
-<p align="right">
+<!-- Centered Dashboard Preview -->
+<p align="center">
   <img src="MapKW SS2.png" alt="About MapKW" width="600px">
 </p>
 
