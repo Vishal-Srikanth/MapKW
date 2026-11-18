@@ -7,7 +7,7 @@ It is. And that's what I wanted to explore with **MapKW**, an urban routing proj
 
 I used Python to turn OpenStreetMap roads into a weighted graph, put classic shortest-path algorithms to the test, generate alternative routes, and bring the results to life in an interactive Tableau Public dashboard.
 
-####[Explore my interactive MapKW Tableau dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/MapKW/01InteractiveMap)
+[Explore my interactive MapKW Tableau dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/MapKW/01InteractiveMap)
 
 
 *Choose an origin and destination, then explore the optimal route and its alternatives. Route times are estimates under static road conditions, not live traffic predictions.*
