@@ -7,6 +7,12 @@ It is. And that's what I wanted to explore with **MapKW**, an urban routing proj
 
 I used Python to turn OpenStreetMap roads into a weighted graph, put classic shortest-path algorithms to the test, generate alternative routes, and bring the results to life in an interactive Tableau Public dashboard.
 
+<!-- Centered Demo GIF Preview -->
+<p align="center">
+  <img src="solved_landing_demo.gif" alt="Autonomous Lunar Lander Success Demo" width="600px">
+</p>
+
+
 [Explore my interactive MapKW Tableau dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/MapKW/01InteractiveMap)
 
 
