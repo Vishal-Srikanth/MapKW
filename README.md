@@ -139,6 +139,3 @@ Road-network data comes from **[OpenStreetMap](https://www.openstreetmap.org/)**
 Boeing, G. (2025). [Modeling and Analyzing Urban Networks and Amenities with OSMnx](https://doi.org/10.1111/gean.70009). *Geographical Analysis*, **57**(4), 567–577. https://doi.org/10.1111/gean.70009
 
 ---
-
-
-[Explore the live dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/MapKW/01InteractiveMap)
