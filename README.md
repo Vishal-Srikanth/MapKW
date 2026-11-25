@@ -140,6 +140,5 @@ Boeing, G. (2025). [Modeling and Analyzing Urban Networks and Amenities with OSM
 
 ---
 
-**MapKW — Every street is a decision.** 🚦
 
 [Explore the live dashboard](https://public.tableau.com/app/profile/vishal.srikanth/viz/MapKW/01InteractiveMap)
